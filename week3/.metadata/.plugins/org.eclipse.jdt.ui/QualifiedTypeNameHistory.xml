@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.github.javaparser.ast.Node"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="com.github.javaparser.JavaParser"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="com.github.javaparser.ParseResult"/>
+    <fullyQualifiedTypeName name="com.github.javaparser.StaticJavaParser"/>
+    <fullyQualifiedTypeName name="com.github.javaparser.ast.CompilationUnit"/>
+    <fullyQualifiedTypeName name="java.awt.List"/>
+    <fullyQualifiedTypeName name="com.github.javaparser.ast.body.MethodDeclaration"/>
+</qualifiedTypeNameHistroy>
